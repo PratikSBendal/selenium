@@ -1,0 +1,15 @@
+loginmail=pepark619
+pwd=peterparker619
+city=Mumbai
+name=pratik
+mail=pepark619@gmail.com
+mobile=9969800145
+pin=400072
+address=test
+gender=Women
+login=gmail
+date=13
+month=2
+year=2018
+coupon=yes
+together=yes

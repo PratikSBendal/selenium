@@ -1,0 +1,4 @@
+1=Cancelled By Us
+2=Ready For Option Sharing
+3=Measured
+4=Measurement Failed

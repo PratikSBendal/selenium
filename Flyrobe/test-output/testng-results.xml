@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="245217" started-at="2018-04-11T10:20:04Z" finished-at="2018-04-11T10:24:10Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="245217" started-at="2018-04-11T10:20:04Z" finished-at="2018-04-11T10:24:10Z">
+      <class name="S_Ofs.Run_ofs">
+        <test-method status="PASS" signature="flow1()[pri:1, instance:S_Ofs.Run_ofs@1b604f19]" name="flow1" duration-ms="139132" started-at="2018-04-11T15:50:05Z" finished-at="2018-04-11T15:52:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flow1 -->
+        <test-method status="PASS" signature="flow2()[pri:2, instance:S_Ofs.Run_ofs@1b604f19]" name="flow2" duration-ms="105937" started-at="2018-04-11T15:52:24Z" finished-at="2018-04-11T15:54:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flow2 -->
+      </class> <!-- S_Ofs.Run_ofs -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

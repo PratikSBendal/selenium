@@ -1,0 +1,5 @@
+1=Cancelled By Us
+2=Out For Delivery
+3=Delivery Boy Assign
+4=Delivery Boy Scheduled
+5=3pl Delivery Scheduled

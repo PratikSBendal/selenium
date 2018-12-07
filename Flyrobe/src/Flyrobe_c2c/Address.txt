@@ -1,0 +1,13 @@
+city=Mumbai
+name=test
+email=test@flyrobe.com
+address=testaddress
+pin=400072
+mobile=1234567890
+brand=testbrand
+price=2000
+filepath=D:\\screenshot\\production compare_c2c.png
+bust=23
+waist=20
+hip=15
+	

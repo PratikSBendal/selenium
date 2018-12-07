@@ -1,0 +1,4 @@
+1=Delivered
+2=Returned
+3=Delivery Reattempt
+4=Delivery Failed

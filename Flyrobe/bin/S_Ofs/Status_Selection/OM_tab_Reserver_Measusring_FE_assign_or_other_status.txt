@@ -1,0 +1,4 @@
+1=Cancelled By Us
+2=Ready For Option Sharing
+3=Out For Measurement
+4=Fitting Expert Assigned

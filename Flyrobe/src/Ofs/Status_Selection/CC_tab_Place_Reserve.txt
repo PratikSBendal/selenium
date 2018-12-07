@@ -1,0 +1,7 @@
+1=Measurement Scheduled From Placed
+2=Confirm For Online Measurement
+3=Confirm For Final Delivery
+4=Confirm W/o Measurement For Repeat
+5=Future Measurements
+6=Cancelled By Us
+7=Ready For Option Sharing

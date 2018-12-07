@@ -1,0 +1,8 @@
+gmail=pratik.bendal16
+pwd=trojan1621
+city=Mumbai
+name=pratik
+mail=pratik.bendal16@gmail.com
+mobile=9969800145
+pin=400072
+address=test

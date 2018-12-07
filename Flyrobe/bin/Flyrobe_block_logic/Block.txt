@@ -1,0 +1,16 @@
+Blockmonth=feb
+loginmail=pratik.bendal16
+pwd=trojan1621
+selectitem=0
+city=Delhi
+name=pratik
+mail=pratik.bendal16@gmail.com
+mobile=9969800145
+pin=110003
+address=test
+gender=Women
+login=gmail
+date=22
+month=2
+year=2018
+coupon=no

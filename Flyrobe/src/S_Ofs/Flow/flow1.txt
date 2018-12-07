@@ -1,0 +1,12 @@
+OrderId=FMR113704
+CCtab=1
+FEA=4
+Measured=3
+Confrimde=3
+Alt=3
+Iqc=3
+Pkd=1
+DBA=3
+DVD=1
+PSD=1
+PIUP=1
