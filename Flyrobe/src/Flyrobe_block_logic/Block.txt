@@ -1,6 +1,6 @@
 Blockmonth=feb
 loginmail=pratik.bendal16
-pwd=trojan1621
+pwd=trojan16
 selectitem=0
 city=Delhi
 name=pratik
